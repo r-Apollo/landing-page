@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #1F2937;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left{
+    color: #F9FaF8;
+    font-size: 48px;
+}
+
+ul{
+    color: #E5E7EB;
+    font-size: 18px;
+    list-style: none;
+}
