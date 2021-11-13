@@ -90,3 +90,26 @@ button{
     text-align: center;
     padding: 8px 16px;
 }
+
+.info{
+    flex: 1;
+    text-align: center;
+    margin-bottom: 48px;
+    margin-top: 32px;
+}
+
+.pix{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex: 1;
+    gap: 48px;
+    min-height: 200px;
+}
+
+.pix img{
+    width: 150px;
+    height: 150px;
+    border-radius: 12%;
+    border: 3px solid #3882F6;
+}
