@@ -94,7 +94,7 @@ button{
 .info{
     flex: 1;
     text-align: center;
-    margin-bottom: 48px;
+    margin-bottom: 32px;
     margin-top: 32px;
 }
 
@@ -112,4 +112,36 @@ button{
     height: 150px;
     border-radius: 12%;
     border: 3px solid #3882F6;
+}
+
+.quote{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background-color: #E5E7EB;
+    margin-top: 26px;
+}
+
+.inner{
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+    margin: 48px 0;
+}
+
+.author{
+    text-align: center;
+}
+
+.insp{
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.two{
+    display: flex;
+    justify-content: flex-end;
 }
