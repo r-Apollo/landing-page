@@ -16,7 +16,7 @@ body{
     justify-content: center;
     width: 100%;
     background-color: #1F2937;
-    margin-bottom: 32px;
+    padding-bottom: 24px;
 }
 
 .wrapper{
@@ -76,7 +76,7 @@ a{
     margin-bottom: 8px;
 }
 
-img{
+.img_content{
     flex: 1;
     padding: 16px;
 }
